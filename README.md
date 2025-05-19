@@ -24,3 +24,14 @@ Welcome to the **Python Essentials Guide**, a beginner-friendly series of Jupyte
    ```bash
    git clone https://github.com/your-username/python-essentials-guide.git
    cd python-essentials-guide
+🚀 Who Is This For?
+Beginners who want a structured Python learning path.
+
+Data science enthusiasts starting with NumPy, Pandas, and visualization.
+
+Students preparing for interviews or hands-on practice.
+
+📧 Feedback & Contributions
+If you find any errors or would like to improve the content, feel free to open an issue or submit a pull request.
+
+Happy Learning! 🌱
